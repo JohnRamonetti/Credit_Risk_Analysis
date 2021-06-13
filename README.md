@@ -9,6 +9,7 @@ MODULE 17 - Supervised machine learning
 
 ## RESULTS
   1. The results from the Random Oversampling protocol 
+  2. 
 
 ## SUMMARY
 
