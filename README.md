@@ -4,9 +4,11 @@ MODULE 17 - Supervised machine learning
 ## OVERVIEW
 
 ## RESOURCES
-  - SOURCE
+  - Data Source: 
+  - Software:  
 
 ## RESULTS
+  1. The results from the Random Oversampling protocol 
 
 ## SUMMARY
 
