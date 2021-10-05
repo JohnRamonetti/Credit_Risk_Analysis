@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
-MODULE 17 - Supervised machine learning
+Supervised machine learning
 
 ## OVERVIEW
   ### Purpose:  The purpose of the current analysis was to assess the performance of various algorithms/computer learning models in predicting credit risk.  Specifically, credit card data taken from LendingClub was subjected to analysis under the following algorithms and machine learning models:  RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier and EasyEnsembleClassifier.  Each model was applied to predict credit risk.  The performance of each model was then evaluated using a balanced accuracy score, confusion matrix and sensitivity (recall), precision and f1 scores.
