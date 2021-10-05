@@ -23,3 +23,9 @@ Supervised machine learning
 
 ## SUMMARY
 ### From the results, we can see that several of the models struggled with predicting high_risk borrowers. Accuracy scores were overall seemingly respectable, ranging from poor (54.4%) all the way to very good (93.2%). The precision for low-risk borrowers was 1.00 for all models, however, that is not very useful.  Precision for identifying high-risk borrowers is more important, but that value was low across the board, ranging from 0.01 to 0.09 across the models.  In other words, none of the models was very precise when it comes to predicting high_risk borrowers.  In terms of Sensitivity, the EasyEnsembleClassifier scored 92%/94%, well above the other models, for both high and low_risk borrowers.  The EasyEnsembleClassifier also scored well above the other models for harmonic mean (f1) score.  Of the models tested, the EasyEnsembleClassifier definitely outperformed every other model tested. However, it can only be recommended lukewarmly, since the precision of 0.09 for predicting high-risk borrowers is still very low, as is the f1 score of 0.16 for predicting high_risk borrowers.
+
+
+________________________________
+#### Contact:
+
+#### E-mail: [john.ramonetti@gmail.com](mailto:john.ramonetti@gmail.com)
