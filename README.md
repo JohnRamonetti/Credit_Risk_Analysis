@@ -6,7 +6,7 @@ Supervised machine learning
 
 ## RESOURCES
   - Data Source: LoanStats_2019Q1.csv
-  - Software:  Python 3.7.7, Anaconda, Jupyter Notebook, Pandas Library, sklearn, imblearn 
+  - Software:  Python 3.7.7, Anaconda, Jupyter Notebook, Pandas Library, sklearn, imblearn  
 
 ## RESULTS
   1. [RandomOverSampler](Images/RandomOverSampler.png) - The Random oversampling algorithm yielded a balanced accuracy score of 65.6%.  Precision was 0.01 for high_risk borrowers and 1.00 for low_risk borrowers.  Sensitivity(recall) was 0.69 and 0.62 for high and low_risk borrowers respectively.  The harmonic mean (f1) score was 0.02 and 0.76 for predicting high and low_risk borrowers respectively.
